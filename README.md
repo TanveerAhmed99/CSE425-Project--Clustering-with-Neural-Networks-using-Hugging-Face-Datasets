@@ -1,6 +1,3 @@
-Based on the contents of the `Clustering with Neural Network.ipynb` notebook, here's a suitable `README.md` for your GitHub repository:
-
----
 
 # 🔍 Clustering with Neural Networks
 
@@ -84,6 +81,3 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 This project is licensed under the MIT License.
 
----
-
-Would you like this saved as a downloadable `README.md` file?
